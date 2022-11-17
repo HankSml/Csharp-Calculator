@@ -10,8 +10,8 @@ namespace Calculator
         {
             bool endApp = false;
 
-            Console.WriteLine("Console Calculator in C#/r");
-            Console.WriteLine("------------------------/n");
+            Console.WriteLine("Console Calculator in C#");
+            Console.WriteLine("------------------------");
 
             while (endApp == false)
             {
